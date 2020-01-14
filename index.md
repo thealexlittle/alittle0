@@ -6,8 +6,7 @@ I am a mentor at StreetCode Academy for the web design class.
 
 I am from Louisiana, and I currently go to Stanford University. 
 
-```markdown
 ### Why I am here
-* To teach people how to build websites. 
-```
+* To teach people how to build websites. I hope that everyone is able to learn as much thry can in class.
+* Also IDK
 
