@@ -2,9 +2,9 @@
 
 I am a mentor at StreetCode Academy for the web design class.
 
-### Markdown
+### About Me
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I am from Louisiana, and I currently go to Stanford University. 
 
 ```markdown
 Syntax highlighted code block
